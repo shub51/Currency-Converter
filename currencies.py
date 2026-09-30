@@ -1,0 +1,7 @@
+# Currency Converter
+currencies = {
+    "INR": "Indian Rupee",
+    "USD": "US Dollar",
+    "EUR": "Euro",
+    "GBP": "British Pound"
+}
